@@ -7,7 +7,6 @@
 
 //int main
 int main() {
-    int n = 0;
     GRRLIB_Init();      //Iniciar GRRLIB
     WPAD_Init();        //Iniciar control de wii
     
